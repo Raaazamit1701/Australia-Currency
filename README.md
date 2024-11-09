@@ -6,13 +6,13 @@ This project is a crypto tax calculator designed for Australian users. It calcul
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Project Structure] (#project-structure)
+- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Components Overview](#components-overview)
 
 
 ## Demo
-[Add a link to a deployed version of the project, if available]
+[https://australia-currency.vercel.app/]
 
 ## Features
 - **Crypto Tax Calculation**: Calculates net capital gains and applies a 50% discount on long-term gains.
@@ -47,7 +47,7 @@ src
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/crypto-tax-calculator.git
+   git clone https://github.com/Raaazamit1701/Australia-Currency
 
 
 2. Navigate into the project directory:
