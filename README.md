@@ -41,6 +41,7 @@ src
 └── pages
     └── Home               # Main page integrating the components
 
+```
 
 ## Installation
 
